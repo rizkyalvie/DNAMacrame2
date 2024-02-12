@@ -1,4 +1,3 @@
-import Link from 'next/link'
 import Navbar from './components/navbar/page'
 import Image from 'next/image'
 import productImage from '../public/images/product.webp'

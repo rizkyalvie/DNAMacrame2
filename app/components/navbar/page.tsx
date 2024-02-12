@@ -1,7 +1,5 @@
 import Link from 'next/link'
 import React from 'react'
-import Image from 'next/image'
-import NoProfile from '../../../public/icons/no-profile.svg'
 
 const Navbar = () => {
   return (
