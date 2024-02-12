@@ -1,14 +1,14 @@
 import React from 'react'
 
-const ButtonT = (name: string) => {
+const ButtonT = () => {
 
   return (
     <button
         className="btn"
       >
-        {name}
+        Just Testing
       </button>
   )
 }
 
-export default ButtonT;
+export default ButtonT
